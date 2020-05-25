@@ -1,0 +1,2 @@
+rootProject.name='pdm-711-zapp'
+include ':app'

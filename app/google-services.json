@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "47841690890",
+    "firebase_url": "https://pdm-711-zapp.firebaseio.com",
+    "project_id": "pdm-711-zapp",
+    "storage_bucket": "pdm-711-zapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47841690890:android:99f04f58ddd366679e26f3",
+        "android_client_info": {
+          "package_name": "firebase.app.pdm_711_zapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47841690890-btb5p10qdvmt4r52vfp5dojg49t6fkde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebase.app.pdm_711_zapp",
+            "certificate_hash": "faa8c9c465cc6f48eebe945a9003126ce822a357"
+          }
+        },
+        {
+          "client_id": "47841690890-iad8oefb3hct5curi1fiedgjuut42fi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBELomQXv70OqXavRgZUliYIs4a1hJAE24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47841690890-iad8oefb3hct5curi1fiedgjuut42fi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
